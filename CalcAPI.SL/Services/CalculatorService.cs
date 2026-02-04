@@ -1,4 +1,4 @@
-namespace CalcAPI.Services;
+namespace CalcAPI.SL.Services;
 
 public class CalculatorService : ICalculatorService
 {
