@@ -1,2 +1,8 @@
 /bin
 /bin
+/bin
+/CalcAPI.SL/bin
+/CalcAPI.SL/obj
+/CalcAPI.Tests/obj
+/obj/Debug
+/bin/Debug
